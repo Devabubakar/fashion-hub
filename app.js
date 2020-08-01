@@ -1,7 +1,6 @@
 window.sr = ScrollReveal();
 
 sr.reveal(".container",{duration: 1000})
-sr.reveal(".container-fluid",{duration: 100})
 sr.reveal(".row",{duration: 100})
 sr.reveal(".col-4",{duration: 100})
 
